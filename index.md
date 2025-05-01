@@ -8,3 +8,6 @@ var body: some View {
   }
 }
 ```
+- [x] Code written
+- [ ] More Code to come
+- [x] Backend of project started
